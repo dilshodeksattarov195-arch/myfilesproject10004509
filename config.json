@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpender",
+        "uuid": 23325057,
+        "checksum": "rahqvl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
